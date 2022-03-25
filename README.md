@@ -3,6 +3,11 @@ FindReplaceTool helps to search a string in a Simulink model and replace it with
 
 FindReplaceTool will help the user to Find-Replace a string in Simulink and Stateflow models.
 
+Usage:
+- Add the FindReplaceTool folder to the MATLAB path.
+- Use FindReplaceTool command to launch the tool.
+- Use "Help" button to launch the detailed help document.
+
 1. This tool can be launched from MATLAB command window as follows,
 Syntax:
 >> FindReplaceTool('<SystemPath>')  
